@@ -1,0 +1,49 @@
+(found at http://f2.org/humour/cooking/chem-cookie.html)
+
+The Chemist's Recipe for Chocolate Chip Cookies
+
+The following recipe for chocolate chip cookies recently appeared in
+Chemical & Engineering News (C&EN, Jun 19, 1995, p. 100). It was
+attributed to Jeannene Ackerman of Witco Corp.
+
+Ingredients:
+
+1. 532.35 cm3 gluten
+2. 4.9 cm3 NaHCO3
+3. 4.9 cm3 refined halite
+4. 236.6 cm3 partially hydrogenated tallow triglyceride
+5. 177.45 cm3 crystalline C12H22O11
+6. 177.45 cm3 unrefined C12H22O11
+7. 4.9 cm3 methyl ether of protocatechuic aldehyde
+8. Two calcium carbonate-encapsulated avian albumen-coated protein
+9. 473.2 cm3 theobroma cacao
+10. 236.6 cm3 de-encapsulated legume meats (sieve size #10)
+
+To a 2-L jacketed round reactor vessel (reactor #1) with an overall
+heat-transfer coefficient of about 100 Btu/F-ft2-hr add one, two, and
+three with constant agitation.
+
+In a second 2-L reactor vessel with a radial flow impeller operating
+at 100 rpm add four, five, six, and seven until the mixture is
+homogeneous.
+
+To reactor #2 add eight followed by three equal portions of the
+homogeneous mixture in reactor #1. Additionally, add nine and ten
+slowly with constant agitation. Care must be taken at this point in
+the reaction to control any temperature rise that may be the result of
+an exothermic reaction.
+
+Using a screw extrude attached to a #4 nodulizer place the mixture
+piece-meal on a 316SS sheet (300 x 600 mm). Heat in a 460°K oven for a
+period of time that is in agreement with Frank & Johnston's first
+order rate expression (see JACOS, 21, 55), or until golden brown.
+
+Once the reaction is complete, place the sheet on a 25°C heat-transfer
+table allowing the product to come to equilibrium.
+
+Please Don't Ask For "Normal" Measurements For This Recipe
+
+This is a fairly standard recipe for chocolate-chip cookies using:
+1. flour 2. baking powder 3. salt 4. butter/fat/lard 5. white sugar
+6. brown sugar 7. vanilla essence 8. eggs 9. chocolate (chips
+presumably) 10 peanuts
